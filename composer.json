@@ -1,5 +1,5 @@
 {
-    "name": "sinarajabpour1998/attachment",
+    "name": "favinblockchain/attachment",
     "type": "library",
     "description": "",
     "license": "MIT",
@@ -19,17 +19,17 @@
         "laravel/framework": "7.*|8.*",
         "plank/laravel-mediable": "5.*",
         "morilog/jalali": "3.*",
-        "sinarajabpour1998/log-manager": "1.*"
+        "favinblockchain/log-manager": "1.*"
     },
     "autoload": {
         "psr-4": {
-            "Sinarajabpour1998\\Attachment\\": "src/"
+            "Favinblockchain\\Attachment\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Sinarajabpour1998\\Attachment\\AttachmentServiceProvider"
+                "Favinblockchain\\Attachment\\AttachmentServiceProvider"
             ]
         }
     }

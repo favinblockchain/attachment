@@ -1,6 +1,6 @@
 <?php
 
-namespace Sinarajabpour1998\Attachment\Facades;
+namespace Favinblockchain\Attachment\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

@@ -1,17 +1,17 @@
 <?php
 
-namespace Sinarajabpour1998\Attachment\Http\Controllers;
+namespace Favinblockchain\Attachment\Http\Controllers;
 
 use App\Http\Controllers\Controller;
-use Sinarajabpour1998\Attachment\Http\Requests\AttachmentRemoveRequest;
-use Sinarajabpour1998\Attachment\Http\Requests\AttachmentUploadRequest;
+use Favinblockchain\Attachment\Http\Requests\AttachmentRemoveRequest;
+use Favinblockchain\Attachment\Http\Requests\AttachmentUploadRequest;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Facades\URL;
 use Plank\Mediable\Facades\ImageManipulator;
 use Plank\Mediable\Facades\MediaUploader;
 use Plank\Mediable\Media;
-use Sinarajabpour1998\LogManager\Facades\LogFacade;
+use Favinblockchain\LogManager\Facades\LogFacade;
 
 class AjaxUploadController extends Controller
 {

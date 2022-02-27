@@ -1,6 +1,6 @@
 <?php
 
-namespace Sinarajabpour1998\Attachment\Helpers;
+namespace Favinblockchain\Attachment\Helpers;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Storage;

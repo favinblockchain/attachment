@@ -1,10 +1,10 @@
 <?php
 
-namespace Sinarajabpour1998\Attachment;
+namespace Favinblockchain\Attachment;
 
-use Sinarajabpour1998\Attachment\Facades\AttachmentFacade;
-use Sinarajabpour1998\Attachment\Helpers\AttachmentHelper;
-use Sinarajabpour1998\Attachment\View\Components\Attachment as AttachmentComponent;
+use Favinblockchain\Attachment\Facades\AttachmentFacade;
+use Favinblockchain\Attachment\Helpers\AttachmentHelper;
+use Favinblockchain\Attachment\View\Components\Attachment as AttachmentComponent;
 use Illuminate\Support\ServiceProvider;
 use Intervention\Image\Image;
 use Plank\Mediable\Facades\ImageManipulator;

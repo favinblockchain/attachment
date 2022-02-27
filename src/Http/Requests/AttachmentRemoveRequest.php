@@ -1,6 +1,6 @@
 <?php
 
-namespace Sinarajabpour1998\Attachment\Http\Requests;
+namespace Favinblockchain\Attachment\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 

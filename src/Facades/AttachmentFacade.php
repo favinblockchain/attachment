@@ -1,6 +1,6 @@
 <?php
 
-namespace Sinarajabpour1998\Attachment\Facades;
+namespace Favinblockchain\Attachment\Facades;
 
 /**
  * Class AlphaHelper
@@ -8,7 +8,7 @@ namespace Sinarajabpour1998\Attachment\Facades;
  * @method static int deleteMediaCompletely($model)
  * @method static int deleteMediaVariants($model)
  *
- * @see \Sinarajabpour1998\Attachment\Helpers\AttachmentHelper
+ * @see \Favinblockchain\Attachment\Helpers\AttachmentHelper
  */
 
 class AttachmentFacade extends BaseFacade

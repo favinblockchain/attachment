@@ -1,25 +1,25 @@
 # Laravel Attachment Package
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/sinarajabpour1998/attachment.svg?style=flat-square)](https://packagist.org/packages/sinarajabpour1998/attachment)
-[![GitHub issues](https://img.shields.io/github/issues/sinarajabpour1998/attachment?style=flat-square)](https://github.com/sinarajabpour1998/attachment/issues)
-[![GitHub stars](https://img.shields.io/github/stars/sinarajabpour1998/attachment?style=flat-square)](https://github.com/sinarajabpour1998/attachment/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/sinarajabpour1998/attachment?style=flat-square)](https://github.com/sinarajabpour1998/attachment/network)
-[![Total Downloads](https://img.shields.io/packagist/dt/sinarajabpour1998/attachment.svg?style=flat-square)](https://packagist.org/packages/sinarajabpour1998/attachment)
-[![GitHub license](https://img.shields.io/github/license/sinarajabpour1998/attachment?style=flat-square)](https://github.com/sinarajabpour1998/attachment/blob/master/LICENSE)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/favinblockchain/attachment.svg?style=flat-square)](https://packagist.org/packages/favinblockchain/attachment)
+[![GitHub issues](https://img.shields.io/github/issues/favinblockchain/attachment?style=flat-square)](https://github.com/favinblockchain/attachment/issues)
+[![GitHub stars](https://img.shields.io/github/stars/favinblockchain/attachment?style=flat-square)](https://github.com/favinblockchain/attachment/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/favinblockchain/attachment?style=flat-square)](https://github.com/favinblockchain/attachment/network)
+[![Total Downloads](https://img.shields.io/packagist/dt/favinblockchain/attachment.svg?style=flat-square)](https://packagist.org/packages/favinblockchain/attachment)
+[![GitHub license](https://img.shields.io/github/license/favinblockchain/attachment?style=flat-square)](https://github.com/favinblockchain/attachment/blob/master/LICENSE)
 
 
 A laravel package for manage you're uploads (images and files), that use ajax and bootstrap for client side and use [plank/laravel-mediable](https://github.com/plank/laravel-mediable) for server side and store files.
-<p align="center"><img src="https://s18.picofile.com/file/8440279268/sinarajabpour1998_attachment.gif?raw=true"></p>
+<p align="center"><img src="https://s18.picofile.com/file/8440279268/favinblockchain_attachment.gif?raw=true"></p>
 
-## How to install and config [sinarajabpour1998/attachment](https://github.com/sinarajabpour1998/attachment) package?
+## How to install and config [favinblockchain/attachment](https://github.com/favinblockchain/attachment) package?
 
 #### <g-emoji class="g-emoji" alias="arrow_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b07.png">⬇️</g-emoji> Installation
 
 ```bash
 PHP Package:
-composer require sinarajabpour1998/attachment
+composer require favinblockchain/attachment
 
 NPM Package:
-npm i sinarajabpour1998-attachment
+npm i favinblockchain-attachment
 ```
 
 #### Publish Config file
@@ -267,15 +267,15 @@ If not installed, run this commands:
 
 ```
 
-#### Set npm files, the npm package is [here](https://www.npmjs.com/package/sinarajabpour1998-attachment)
+#### Set npm files, the npm package is [here](https://www.npmjs.com/package/favinblockchain-attachment)
 
 ```
 
 JS file:
-Add require('sinarajabpour1998-attachment/js/attachment'); to resources/js/app.js
+Add require('favinblockchain-attachment/js/attachment'); to resources/js/app.js
 
 SCSS file:
-Add @import "~sinarajabpour1998-attachment/scss/attachment"; to resources/scss/app.scss
+Add @import "~favinblockchain-attachment/scss/attachment"; to resources/scss/app.scss
 
 Run command:
 npm run dev

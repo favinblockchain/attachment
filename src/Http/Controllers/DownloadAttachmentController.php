@@ -1,6 +1,6 @@
 <?php
 
-namespace Sinarajabpour1998\Attachment\Http\Controllers;
+namespace Favinblockchain\Attachment\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;

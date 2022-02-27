@@ -1,6 +1,6 @@
 <?php
 
-namespace Sinarajabpour1998\Attachment\View\Components;
+namespace Favinblockchain\Attachment\View\Components;
 
 use Illuminate\Contracts\View\View;
 use Illuminate\View\Component;

@@ -3,7 +3,7 @@
 use Illuminate\Support\Facades\Route;
 
 Route::group([
-    'namespace' => 'Sinarajabpour1998\Attachment\Http\Controllers',
+    'namespace' => 'Favinblockchain\Attachment\Http\Controllers',
 ], function () {
     Route::post('attachment_ajax_upload', 'AjaxUploadController@upload')
         ->name('attachment_upload')->middleware(config('attachment.set_middleware_to_upload_url'));
